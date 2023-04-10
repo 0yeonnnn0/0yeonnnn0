@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+my blog
+https://lmsd1.tistory.com/
+
 <!--
 **0yeonnnn0/0yeonnnn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
