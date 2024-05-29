@@ -14,11 +14,11 @@
 | 기간 | 내용 | 역할 | 비고 | 
 | --- | --- | --- | --- |
 | 2023.07 ~ 2023.08 | cyworld 컨셉의 개인용 블로그 (1인 개발) <a href="https://cyblog.fly.dev/">[cyblog]</a> | Full-stack | React, Node.js, Express, MongoDB |
-| 2023.10 ~ 2024.00 | Open API를 활용한 백준 문제 추천 및 주간 랭킹 서비스 <a href="https://cyblog.fly.dev/">[code-kookmin]</a> | 팀장 | React, Typescript |
+| 2023.10 ~ 2024.00 | Open API를 활용한 백준 문제 추천 및 주간 랭킹 서비스 <a href="https://github.com/code-kookmin/comin_ft">[code-kookmin]</a> | 팀장 | React, Typescript |
 | 2024.01 ~ 2024.01 | AD Management Platform <a href="https://github.com/KMU-PBL-team4/front">[NeighborAds]</a> | Front-end | React |
 | 2024.03 ~ 2024.03 | AI 자동인식 기반 선순환 복약 지도 서비스 <a href="https://github.com/ai4goodYato/yato_front">[YatoYato]</a> | Front-end <br/> 팀장 | React |
 | 2024.04 ~ 2024.05 | 서울시 내 위치인식 기반 문화행사 조회 및 추천 웹앱 <a href="https://github.com/Wink-24-1/front">[SeoulMate]</a> | Front-end <br/> 팀장 | React |
-| 2024.04 ~ 2024.05 | OpenAI API를 활용한 코드 및 코드명 변환 서비스 <a href="https://github.com/Wink-24-1/front">[FunctionConverter]</a> | Full-stack | React, Node.js, Express, Firebase |
+| 2024.04 ~ 2024.05 | OpenAI API를 활용한 코드 및 코드명 변환 서비스 (1인 개발) <a href="https://github.com/0yeonnnn0/24-1-webclient">[FunctionConverter]</a> | Full-stack | React, Node.js, Express, Firebase |
 </div>
 
 
