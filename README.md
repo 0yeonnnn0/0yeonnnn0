@@ -1,13 +1,3 @@
-<h3 align='center'>😀 About Me</h3>
-<ul>
-  <li>💻 Front-end 개발자</li>
-  <li>🎓 <a href="https://cs.kookmin.ac.kr/" target="_blank">국민대학교</a> 20학번 재학중</li>
-  <li>👯 아이들을 위한 교육 및 코딩 교육에 관심이 있습니다.</li>
-  <li>📫 <a href="mailto:angrybird2600@gmail.com">angrybird2600@gmail.com</a></li>
-</ul>
-
-<br/>
-
 <h3 align='center'>💻 Projects</h3>
 <div align='center'>
   
