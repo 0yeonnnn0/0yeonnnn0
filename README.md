@@ -9,6 +9,7 @@
 | 2024.03 ~ 2024.03 | AI 자동인식 기반 선순환 복약 지도 서비스 <a href="https://github.com/ai4goodYato/yato_front">[YatoYato]</a> | Front-end | React |
 | 2024.04 ~ 2024.05 | 서울시 내 위치인식 기반 문화행사 조회 및 추천 웹앱 <a href="https://github.com/Wink-24-1/front">[SeoulMate]</a> | Front-end | React |
 | 2024.04 ~ 2024.05 | OpenAI API를 활용한 코드 및 코드명 변환 서비스 <a href="https://github.com/0yeonnnn0/24-1-webclient">[FunctionConverter]</a> | Full-stack | React, Node.js, Express, Firebase |
+| 2024.04 ~ 2024.05 | 냉장고 속 재고 관리 서비스 <a href="https://github.com/ziyato/backend">[냉장고를 부탁해]</a> | Back-end | Express, PostgreSQL, AWS EC2 |
 </div>
 
 
